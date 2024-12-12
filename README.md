@@ -2,6 +2,8 @@
 
 The **Stroke Limit Plugin** is a playful Figma plugin designed to bring the concept of scarcity into the digital design space. By limiting the number of strokes you can draw, it challenges you to design with purpose and creativity.
 
+<img width="456" alt="limitlines" src="https://github.com/user-attachments/assets/cc036073-4473-4a95-aa5e-358e6591ddbb" />
+
 ## Features
 - Set a finite number of strokes for your designs.
 - Automatically tracks and updates the remaining strokes in a Figma-inspired UI.
