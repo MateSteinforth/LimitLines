@@ -1,0 +1,10 @@
+{
+    "name": "Limit Lines",
+    "id": "stroke-limit-plugin",
+    "api": "1.0.0",
+    "main": "code.js",
+    "ui": "ui.html",
+    "editorType": ["figma"],
+    "id": "1449020128717233889",
+    "networkAccess": { "allowedDomains": ["https://betabeta.xyz"] }
+}
