@@ -28,20 +28,6 @@ In a world of infinite undos and boundless digital tools, this plugin brings the
 3. Draw your vectors until the stroke limit is reached.
 4. Use the "Buy More Strokes" button to explore additional fun features (customizable link).
 
-## Development
-### Prerequisites
-- [Node.js](https://nodejs.org/) (for optional plugin build tools).
-
-### File Structure
-- `code.js`: Main logic for the plugin.
-- `ui.html`: User interface for the plugin.
-- `manifest.json`: Plugin configuration for Figma.
-
-### Testing
-1. Make changes to the `code.js` or `ui.html` files.
-2. Reload the plugin in Figma using **Plugins > Development > Reload Plugins**.
-3. Test the updated functionality.
-
 ## Contributing
 Contributions are welcome! Feel free to submit a pull request or open an issue to suggest improvements.
 
